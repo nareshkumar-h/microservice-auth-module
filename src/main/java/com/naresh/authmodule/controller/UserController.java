@@ -20,6 +20,7 @@ public class UserController {
 		userList.add("Naresh");
 		userList.add("Siva");
 		userList.add("Subash");
+		userList.add("Murali");
 		return userList;
 	}
 }
