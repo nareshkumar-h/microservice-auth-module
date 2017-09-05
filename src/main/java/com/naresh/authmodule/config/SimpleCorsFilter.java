@@ -48,4 +48,3 @@ public class SimpleCorsFilter implements Filter {
     }
 }
 
-//Reference: https://stackoverflow.com/questions/30632200/standalone-spring-oauth2-jwt-authorization-server-cors?lq=1
